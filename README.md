@@ -1,6 +1,29 @@
 # 🛠️ AnomaData: Automated Anomaly Detection for Predictive Maintenance
 ![AnomaData1](https://github.com/user-attachments/assets/b5c2b26f-f267-41ae-a924-8f4d11f208f2)
 
+## Table of Content :
+1. [Project Overview](#Project Overview)
+2. [Data Sources]
+3. [Data Preprocessing Steps](#Data Preprocessing Steps)
+4. [Exploratory Data Analysis (EDA)](#Exploratory Data Analysis (EDA))
+5. [Feature Engineering](#Feature Engineering)
+6. [Model Selection & Training](# Model Selection & Training)
+7. [Hyperparameter Tuning](#Hyperparameter Tuning)
+8. [Best Mode](#Best Model)
+9. [Performance Evaluation](#Performance Evaluation)
+10. [Deployment](#Deployment)
+
+11. 
+Data Preprocessing Steps
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Model Selection
+Performance Evaluation
+Benefits of the Model for Technical Users
+Benefits of the Model for Potential Users
+Future Work
+Benefits of Anomaly Detection Model
+Conclusion
 
 ## 📌 Project Overview
 Industries face challenges in maintaining machinery efficiently due to unplanned downtime, leading to increased costs and reduced productivity. This project develops an **Automated Anomaly Detection System** using machine learning to predict potential failures in industrial machines. The system analyzes sensor data and detects anomalies, enabling predictive maintenance to optimize maintenance schedules and enhance equipment lifespan.
@@ -83,6 +106,12 @@ python app.py
 - **Reduced Downtime:** Prevents unexpected machine failures.
 - **Optimized Maintenance Costs:** Data-driven repair schedules.
 - **Increased Equipment Lifespan & Safety Compliance.**
+
+  ## Conclusion :
+- The AnomaData project successfully demonstrated the application of machine learning techniques for predictive maintenance through anomaly detection. Among the evaluated models, the Random Forest initial model emerged as the best performer, achieving an outstanding accuracy of 99.9%.
+-	This high accuracy, combined with superior precision, recall, F1-score, and AUC-ROC metrics, makes it the most reliable choice for detecting anomalies in the dataset.
+-	The model effectively differentiates between normal and anomalous conditions, ensuring timely identification of potential failures. By leveraging this high-performing model, industries can proactively optimize maintenance strategies, reduce operational downtime, and enhance overall efficiency.
+
 
 ## 🏆 Contributors
 - **Komal Sahu**   
