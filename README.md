@@ -1,29 +1,23 @@
 # 🛠️ AnomaData: Automated Anomaly Detection for Predictive Maintenance
 ![AnomaData1](https://github.com/user-attachments/assets/b5c2b26f-f267-41ae-a924-8f4d11f208f2)
 
-## Table of Content :
-1. [Project Overview](#Project Overview)
-2. [Data Sources]
-3. [Data Preprocessing Steps](#Data Preprocessing Steps)
-4. [Exploratory Data Analysis (EDA)](#Exploratory Data Analysis (EDA))
-5. [Feature Engineering](#Feature Engineering)
-6. [Model Selection & Training](# Model Selection & Training)
-7. [Hyperparameter Tuning](#Hyperparameter Tuning)
-8. [Best Mode](#Best Model)
-9. [Performance Evaluation](#Performance Evaluation)
-10. [Deployment](#Deployment)
-
-11. 
-Data Preprocessing Steps
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Model Selection
-Performance Evaluation
-Benefits of the Model for Technical Users
-Benefits of the Model for Potential Users
-Future Work
-Benefits of Anomaly Detection Model
-Conclusion
+## 📑 Table of Contents
+1. [Project Overview](#-project-overview)  
+2. [Data Sources](#-data-sources)  
+3. [Data Preprocessing Steps](#-data-preprocessing-steps)  
+4. [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)  
+5. [Feature Engineering](#-feature-engineering)  
+6. [Model Selection & Training](#-model-selection--training)  
+7. [Hyperparameter Tuning](#-hyperparameter-tuning)  
+8. [Best Model](#-best-model-random-forest)  
+9. [Performance Evaluation](#-performance-evaluation)  
+10. [Deployment](#-deployment)  
+11. [Future Work](#-future-work)  
+12. [Benefits of the Model](#-benefits-of-the-model)  
+   - [For Technical Users](#-for-technical-users)  
+   - [For Industries & Maintenance Teams](#-for-industries--maintenance-teams)
+13. [Conclusion](#-conclusio)
+14. [Contributors](#-contributors)  
 
 ## 📌 Project Overview
 Industries face challenges in maintaining machinery efficiently due to unplanned downtime, leading to increased costs and reduced productivity. This project develops an **Automated Anomaly Detection System** using machine learning to predict potential failures in industrial machines. The system analyzes sensor data and detects anomalies, enabling predictive maintenance to optimize maintenance schedules and enhance equipment lifespan.
