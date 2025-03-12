@@ -103,6 +103,7 @@ python train_model.py
 
 
 ## 🏆 Contributors
-- **Komal Sahu**   
+- **Komal Sahu**
+- **Course**: Data Science Bootcamp, upGrad 
 
 ---
