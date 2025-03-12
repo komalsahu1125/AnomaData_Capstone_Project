@@ -79,11 +79,6 @@ pip install -r requirements.txt
 python train_model.py
 ```
 
-### **Start the Flask API for Predictions**
-```bash
-python app.py
-```
-
 ## 🔮 Future Work
 - **Real-Time Deployment:** API-based real-time anomaly detection.
 - **IoT Integration:** Continuous sensor data monitoring.
