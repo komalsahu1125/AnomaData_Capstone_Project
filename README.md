@@ -16,7 +16,7 @@
 12. [Benefits of the Model](#-benefits-of-the-model)  
    - [For Technical Users](#-for-technical-users)  
    - [For Industries & Maintenance Teams](#-for-industries--maintenance-teams)
-13. [Conclusion](#-conclusio)
+13. [Conclusion](#-conclusion)
 14. [Contributors](#-contributors)  
 
 ## 📌 Project Overview
