@@ -72,12 +72,6 @@ The following machine learning models were evaluated:
 To install dependencies, run:
 ```bash
 pip install -r requirements.txt
-```
-
-### **Train & Save the Model**
-```bash
-python train_model.py
-```
 
 ## 🔮 Future Work
 - **Real-Time Deployment:** API-based real-time anomaly detection.
