@@ -72,6 +72,7 @@ The following machine learning models were evaluated:
 To install dependencies, run:
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🔮 Future Work
 - **Real-Time Deployment:** API-based real-time anomaly detection.
